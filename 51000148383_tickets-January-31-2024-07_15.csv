@@ -1,0 +1,5 @@
+Ticket ID,Subject,Status,Priority,Source,Type,Agent,Group,Created time,Due by Time,Closed time,Initial response time,First response time (in hrs),Customer interactions,Resolution status,Survey results,Skill,Reference Number,Full name,Contact ID
+1,Email address change,Open,Medium,Phone,Question,No Agent,Escalations,2024-01-25 01:13:49,2024-01-26 08:00:00,,2024-01-25 01:13:49,00:00:00,1,"",,,,Emily Garcia,emily.garcia@freshdesk.com
+2,Payment failed,Open,Medium,Email,Question,No Agent,Escalations,2024-01-25 01:13:49,2024-01-26 08:00:00,,,00:00:00,1,"",,,,Matt Rogers,matt.rogers@freshdesk.com
+3,Received a broken TV,Open,Low,Email,Question,No Agent,Escalations,2024-01-25 01:13:49,2024-01-30 08:00:00,,,00:00:00,1,"",,,,Sarah James,sarah.james@freshdesk.com
+4,Mia's Restaurant,Open,High,Phone,Problem,No Agent,Customer Support,2024-01-31 03:04:27,2024-02-01 17:00:00,,2024-01-31 03:06:15,00:00:00,2,"",,,5678999,Shudeeksha,shudeeksha@909it.com.au
